@@ -578,7 +578,6 @@ public class Main {
 
 ---
 
-Got it! I'll provide the next 10 problems with simple and easy-to-understand logic. Here we go! 🚀  
 
 ---
 
@@ -828,7 +827,6 @@ public class Main {
 
 ---
 
-Here are the next 5 problems! 🚀  
 
 ---
 
